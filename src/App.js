@@ -59,7 +59,7 @@ function App() {
           </header>
           <div className='flex h-[100vh] w-[68%] mx-auto '>
             <div className='h-[430px] w-full  my-auto   flex flex-col   '>
-              <h2 className='text-[1.75rem]  '>Hi Rizwan 👋</h2>
+              <h2 className='text-[1.75rem]  '>Hi Siva 👋</h2>
               <h1 className='text-4xl font-bold tracking-wide mt-2'>
                 Welcome to Peppertype.ai
               </h1>
